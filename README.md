@@ -14,3 +14,5 @@ Parts used:
 - 1 8 tooth lego gear
 - Lego chain treads
 - 9V battery with snap-on connector
+- IR reciever
+- Arduino IR remote
